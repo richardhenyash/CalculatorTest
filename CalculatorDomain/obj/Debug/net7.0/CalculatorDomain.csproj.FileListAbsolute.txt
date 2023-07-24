@@ -1,0 +1,12 @@
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/bin/Debug/net7.0/CalculatorDomain.deps.json
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/bin/Debug/net7.0/CalculatorDomain.dll
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/bin/Debug/net7.0/CalculatorDomain.pdb
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/CalculatorDomain.csproj.AssemblyReference.cache
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/CalculatorDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/CalculatorDomain.AssemblyInfoInputs.cache
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/CalculatorDomain.AssemblyInfo.cs
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/CalculatorDomain.csproj.CoreCompileInputs.cache
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/CalculatorDomain.dll
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/refint/CalculatorDomain.dll
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/CalculatorDomain.pdb
+/Users/richardash/Dev/CalculatorTest/CalculatorDomain/obj/Debug/net7.0/ref/CalculatorDomain.dll
